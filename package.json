@@ -10,7 +10,7 @@
   "bugs": {
     "url": "https://github.com/cxro/astro-whono/issues"
   },
-  "homepage": "https://astro.whono.me",
+  "homepage": "https://whono.paulapplegate.com",
   "type": "module",
   "engines": {
     "node": ">=22.12.0"
